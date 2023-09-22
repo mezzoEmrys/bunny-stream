@@ -12,6 +12,9 @@ enjoy being able to type a little bit less while doing all my
 debugging, etc. 
 
 Future goals:
+Add some kind of notification for when timers have finished.
+Maybe add a music chime, using Shinmera's music library?
+
 Trigger commands automatically to trigger the funishments starting
 and stopping. Have to fix whatever drakma socket nonsense is
 breaking to fix this, as well as configure Mix It Up to recieve.

@@ -26,6 +26,8 @@
                                 :type event :weight rare)
           ("Starving Artist moment" :desc "Speedpaint of some kind of chat fanart."
                                     :type event :weight ultra-rare)
+          ("Opposite Day" :desc "She can only use BANNED words."
+                                    :type event :weight ghost-rare)
           ("'M (FF)" :type event :weight error-rare)))
 
 (defun value-of-key (key list)
